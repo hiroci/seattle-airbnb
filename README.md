@@ -27,7 +27,7 @@ There is only one notebook for analysis that compile all the plots and observati
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@tales.ishida/does-higher-prices-mean-better-service-in-airbnb-9edd1e1df686).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The dataset can be found here: https://www.kaggle.com/datasets/airbnb/seattle
